@@ -1,0 +1,38 @@
+.navbar>.container {
+    justify-content: start;
+}
+
+#article-count {
+    width: 100px;
+}
+
+#article-input-count {
+    display: none;
+    width: 100px;
+}
+
+#show-input-btn,
+#reset {
+    cursor: pointer;
+}
+
+.show-input {
+    display: inline-block !important;
+}
+
+.hide-input {
+    display: none;
+}
+
+main {
+    margin-top: 88px;
+}
+
+section {
+    box-shadow: 0 5px 20px rgba(0,0,0,.08);
+    border-radius: 8px;
+    padding: 2rem 1.5rem 1.5rem 1.5rem;
+    margin-bottom: 2rem;
+    color: inherit;
+    text-decoration: none;
+}
